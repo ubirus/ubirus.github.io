@@ -106,13 +106,13 @@ analytics:
 author:
   name             : "Kexuan Liu"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am a graduate student in philosophy at Duke University. My research interests lie at the intersection of Social and Political Philosophy and Philosophy of Mind. I am particularly interested in feminist theory, queer&trans studies, critical disability studies, and memory studies. "
+  bio              : "I am a graduate student in philosophy at Duke University. My research interests lie at the intersection of Social Philosophy and Philosophy of Mind. I am particularly interested in feminist theory, queer&trans studies, critical disability studies, and memory studies. "
   location         : "Durham, North Carolina"
   email            : kexuan.liu@duke.edu
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      # url: "mailto:kexuan.liu@duke.edu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
